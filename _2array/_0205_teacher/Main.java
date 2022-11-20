@@ -1,5 +1,7 @@
 package _2array._0205_teacher;
 
+// 선생님 풀이 
+
 import java.util.*;
 class Main {
     public int solution(int n){
